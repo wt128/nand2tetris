@@ -1,2 +1,2 @@
 #! /bin/bash
-../../tools/HardwareSimulator.sh $1.tst
+~/git/nand2tetris/tools/HardwareSimulator.sh $1.tst
